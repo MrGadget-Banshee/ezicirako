@@ -1,3 +1,4 @@
 filtershark loadstring(filter)
 dex loadstring(niga)
-revizadmin asdasdasdsada
+revizadmin loadstring(reviz)
+maxcityhaxx loadstring(madcity)
