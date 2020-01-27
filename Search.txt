@@ -4,4 +4,4 @@ feyzenshark*N/A*this script name feyzenshark,xxd,tr*None
 foyzarshark*N/A*this script name foyzarshark,xxd,tr*None
 megaultrascript*N/A*this script name megaultrascript,xxd*None
 megaultrat*N/A*this script name megaultrat,xxd,tr*None
-Ninja Legends*N/A*this script name Ninja Legends\nxxd*https://t3.rbxcdn.com/734c6ffe4f64b11bb986062b52993f94
+Ninja Legends*N/A*this script name Ninja Legends,xd*https://t3.rbxcdn.com/734c6ffe4f64b11bb986062b52993f94
