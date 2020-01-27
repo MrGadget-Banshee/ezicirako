@@ -1,7 +1,7 @@
-filtershark*N/A*this script name filtershark,xxd,tr
-megascript*N/A*this script name megascript,xxd,tr
-feyzenshark*N/A*this script name feyzenshark,xxd,tr
-foyzarshark*N/A*this script name foyzarshark,xxd,tr
-megaultrascript*N/A*this script name megaultrascript,xxd
-megaultrat*N/A*this script name megaultrat,xxd,tr
-Ninja Legends*N/A*this script name Ninja Legends\nxxd
+filtershark*N/A*this script name filtershark,xxd,tr*None
+megascript*N/A*this script name megascript,xxd,tr*None
+feyzenshark*N/A*this script name feyzenshark,xxd,tr*None
+foyzarshark*N/A*this script name foyzarshark,xxd,tr*None
+megaultrascript*N/A*this script name megaultrascript,xxd*None
+megaultrat*N/A*this script name megaultrat,xxd,tr*None
+Ninja Legends*N/A*this script name Ninja Legends\nxxd*None
