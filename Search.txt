@@ -1,7 +1,7 @@
-filtershark*N/A*this script name filtershark,xxd,tr*None
-megascript*N/A*this script name megascript,xxd,tr*None
-feyzenshark*N/A*this script name feyzenshark,xxd,tr*None
-foyzarshark*N/A*this script name foyzarshark,xxd,tr*None
-megaultrascript*N/A*this script name megaultrascript,xxd*None
-megaultrat*N/A*this script name megaultrat,xxd,tr*None
-Ninja Legends*N/A*this script name Ninja Legends,xd*https://t3.rbxcdn.com/734c6ffe4f64b11bb986062b52993f94
+filtershark*N/A*this script name filtershark,xxd,tr*None*print("asds")
+megascript*N/A*this script name megascript,xxd,tr*None*print("t")
+feyzenshark*N/A*this script name feyzenshark,xxd,tr*None*print("n")
+foyzarshark*N/A*this script name foyzarshark,xxd,tr*None*print("h")
+megaultrascript*N/A*this script name megaultrascript,xxd*None*print("r")
+megaultrat*N/A*this script name megaultrat,xxd,tr*None*print("g")
+Ninja Legends*N/A*this script name Ninja Legends,xd*https://t3.rbxcdn.com/734c6ffe4f64b11bb986062b52993f94*print("game gg easy")
