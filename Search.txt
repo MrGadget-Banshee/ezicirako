@@ -1,7 +1,7 @@
-filtershark*xd
-megascript*:p
-feyzenshark*:g
-foyzarshark*:ı
-megaultrascript*td
-Fyesdgdf*:t
-Ninja Legends*f
+filtershark*N/A*xd
+megascript*N/A*:p
+feyzenshark*N/A*:g
+foyzarshark*N/A*:ı
+megaultrascript*N/A*td
+Fyesdgdf*N/A*:t
+Ninja Legends*N/A*f
